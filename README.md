@@ -35,6 +35,8 @@
 :triangular_flag_on_post:06 | **IEEE GRSL** | Fixation-Guided Diffusion for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11303205)/[Code](https://github.com/23shuiyang/FGDiff)
 :triangular_flag_on_post:07 | **IEEE TCSVT** | G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11346472)/Code
 :triangular_flag_on_post:08 | **Remote Sensing** | Salient Object Detection for Optical Remote Sensing Images Based on Gated Differential Unit | [Paper](https://www.mdpi.com/2072-4292/18/3/389)/Code
+:triangular_flag_on_post:09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
+
 
 
 
