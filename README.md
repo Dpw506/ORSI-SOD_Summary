@@ -37,6 +37,8 @@
 :triangular_flag_on_post:08 | **Remote Sensing** | Salient Object Detection for Optical Remote Sensing Images Based on Gated Differential Unit | [Paper](https://www.mdpi.com/2072-4292/18/3/389)/Code
 :triangular_flag_on_post:09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
 :triangular_flag_on_post:10 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://chinesesites.library.ingentaconnect.com/content/asprs/pers/2026/00000092/00000002/art00015)/Code
+:triangular_flag_on_post:11 | **IEEE TGRS** | DeSPAR: Depth-Guided Semantic-Prompted Adaptive Refinement for ORSI Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/11367015)/Code
+
 
 
 
