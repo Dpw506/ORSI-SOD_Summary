@@ -38,6 +38,7 @@
 :triangular_flag_on_post:09 | **Expert Systems with Applications** | Explicitly Learning Semantic Relevance for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426003003)/Code
 :triangular_flag_on_post:10 | **Photogrammetric Engineering & Remote Sensing** | Probabilistic Uncertainty-Guided Salient Object Detection in Remote Sensing Images | [Paper](https://chinesesites.library.ingentaconnect.com/content/asprs/pers/2026/00000092/00000002/art00015)/Code
 :triangular_flag_on_post:11 | **IEEE TGRS** | DeSPAR: Depth-Guided Semantic-Prompted Adaptive Refinement for ORSI Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/11367015)/Code
+:triangular_flag_on_post:12 | **Expert Systems with Applications** | Interactive Edge Awareness Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742600792X)/Code
 
 
 
